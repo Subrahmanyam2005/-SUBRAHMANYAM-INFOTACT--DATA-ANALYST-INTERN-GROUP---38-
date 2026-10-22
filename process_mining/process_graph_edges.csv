@@ -1,0 +1,52 @@
+source,target,transition_count
+Ambulance Arrival,Ambulance Transfer,105
+Ambulance Arrival,Assessment,7
+Ambulance Arrival,Registration,56
+Ambulance Arrival,Triage,2947
+Ambulance Transfer,Ambulance Arrival,51
+Ambulance Transfer,Assessment,1153
+Ambulance Transfer,Consult Arrival,1
+Ambulance Transfer,Consult Request,35
+Ambulance Transfer,Discharge,18
+Ambulance Transfer,Left ED,7
+Ambulance Transfer,Registration,1812
+Ambulance Transfer,Triage,37
+Assessment,Ambulance Transfer,49
+Assessment,Consult Arrival,6
+Assessment,Consult Request,2628
+Assessment,Discharge,11648
+Assessment,Left ED,1413
+Assessment,Registration,79
+Assessment,Triage,18
+Consult Arrival,Discharge,1327
+Consult Arrival,Left ED,978
+Consult Request,Ambulance Transfer,1
+Consult Request,Assessment,10
+Consult Request,Consult Arrival,1468
+Consult Request,Discharge,1082
+Consult Request,Left ED,150
+Consult Request,Registration,7
+Discharge,Ambulance Transfer,2
+Discharge,Assessment,116
+Discharge,Consult Arrival,833
+Discharge,Consult Request,15
+Discharge,Left ED,13153
+Discharge,Triage,1
+Left ED,Consult Arrival,4
+Left ED,Consult Request,2
+Left ED,Discharge,1714
+Left ED,Triage,1
+Registration,Ambulance Arrival,4
+Registration,Ambulance Transfer,1143
+Registration,Assessment,14480
+Registration,Consult Request,33
+Registration,Discharge,221
+Registration,Left ED,121
+Registration,Triage,8
+Triage,Ambulance Arrival,119
+Triage,Ambulance Transfer,1765
+Triage,Assessment,66
+Triage,Consult Request,5
+Triage,Discharge,1
+Triage,Left ED,1
+Triage,Registration,14053
