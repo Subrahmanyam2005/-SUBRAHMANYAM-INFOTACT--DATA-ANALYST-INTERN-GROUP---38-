@@ -1,0 +1,11 @@
+pathway,case_count,pathway_length,case_percent
+Triage -> Registration -> Assessment -> Discharge -> Left ED,9882,5,61.72
+Triage -> Registration -> Assessment -> Left ED -> Discharge,1074,5,6.71
+Ambulance Arrival -> Triage -> Ambulance Transfer -> Registration -> Assessment -> Discharge -> Left ED,940,7,5.87
+Triage -> Registration -> Assessment -> Consult Request -> Consult Arrival -> Discharge -> Left ED,647,7,4.04
+Ambulance Arrival -> Triage -> Registration -> Ambulance Transfer -> Assessment -> Discharge -> Left ED,525,7,3.28
+Triage -> Registration -> Assessment -> Consult Request -> Discharge -> Consult Arrival -> Left ED,424,7,2.65
+Ambulance Arrival -> Triage -> Ambulance Transfer -> Registration -> Assessment -> Consult Request -> Consult Arrival -> Discharge -> Left ED,352,9,2.2
+Ambulance Arrival -> Triage -> Registration -> Ambulance Transfer -> Assessment -> Consult Request -> Consult Arrival -> Discharge -> Left ED,262,9,1.64
+Ambulance Arrival -> Triage -> Ambulance Transfer -> Registration -> Assessment -> Consult Request -> Discharge -> Consult Arrival -> Left ED,211,9,1.32
+Triage -> Registration -> Assessment -> Consult Request -> Discharge -> Left ED,173,6,1.08
