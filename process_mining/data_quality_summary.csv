@@ -1,0 +1,11 @@
+metric,value
+input_rows,90965
+valid_rows_retained,90965
+invalid_rows_excluded,0
+duplicate_event_rows,0
+missing_required_columns,0
+cases_retained,16011
+activities_retained,9
+negative_time_intervals,0
+total_adjacent_event_intervals,74954
+unparseable_or_missing_timestamps,0
