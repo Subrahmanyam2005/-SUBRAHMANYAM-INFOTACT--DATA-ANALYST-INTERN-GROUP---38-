@@ -1,0 +1,6 @@
+resource,capacity,busy_minutes,simulation_minutes,utilization_percent,average_queue_wait_minutes
+Registration,1,400.0,722.62,55.35,9.86
+Triage,2,700.0,722.62,48.43,0.0
+Doctor Consultation,3,1500.0,722.62,69.19,34.21
+Laboratory,2,1280.0,722.62,88.57,69.41
+Treatment,4,1200.0,722.62,41.52,0.04

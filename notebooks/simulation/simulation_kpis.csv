@@ -1,0 +1,2 @@
+patients_simulated,average_journey_minutes,average_waiting_minutes,average_service_minutes,p90_journey_minutes,simulation_makespan_minutes
+100,129.47,88.53,50.8,238.3,722.62
